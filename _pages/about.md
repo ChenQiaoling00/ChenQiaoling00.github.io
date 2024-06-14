@@ -22,7 +22,7 @@ I am a incoming Ph.D student majoring in Computer Science at S-Lab Nanyang Techn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/amsp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2024</div><img src='images/amsp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2311.00257))
