@@ -25,7 +25,7 @@ I am an incoming Ph.D student majoring in Computer Science at S-Lab Nanyang Tech
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2024</div><img src='images/LinS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training](https://arxiv.org/abs/2311.00257))
+[AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training](https://arxiv.org/abs/2311.00257)
 
 **Qiaoling Chen**, Qinghao Hu, Guoteng Wang, Yingtong Xiong, Ting Huang, Xun Chen, Yang Gao, Hang Yan, Yonggang Wen, Tianwei Zhang, Peng Sun
 
@@ -45,7 +45,7 @@ I am an incoming Ph.D student majoring in Computer Science at S-Lab Nanyang Tech
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='images/NSDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Characterization of Large Language Model Development in the Datacenter]
+Characterization of Large Language Model Development in the Datacenter
 
 Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, **Qiaoling Chen**, Peng Sun, Dahua Lin, Xiaolin Wang, Yingwei Luo, Yonggang Wen, Tianwei Zhang
 
