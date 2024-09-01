@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. I was a research intern at Shanghai AI Lab, supervised by Dr. Peng Sun.
+I am a first-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. I was a research intern at Shanghai AI Lab, supervised by Dr. Peng Sun.
 
 
 # 📝 Publications 
@@ -41,6 +41,17 @@ I am an incoming Ph.D student majoring in Computer Science at S-Lab Nanyang Tech
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism]([https://arxiv.org/abs/2401.09149](https://arxiv.org/pdf/2406.18485))
+
+Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, **Qiaoling Chen**, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='images/NSDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
