@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiaoling Chen"
+title                    : "Qiaoling Chen (陈 巧玲)"
 description              : ""
-repository               : "https://github.com/ChenQiaoling00"
+repository               : "ChenQiaoling00/ChenQiaoling00"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiaoling Chen (陈巧玲)"
+  name             : "Qiaoling Chen (陈 巧玲)"
   avatar           : "images/cql.jpg"
   bio              : "S-Lab for Advanced Intelligence, Nanyang Technology University"
   location         : "Singapore, Singapore"
