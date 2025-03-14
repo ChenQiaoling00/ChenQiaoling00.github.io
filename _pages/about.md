@@ -32,17 +32,8 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Buff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[InternEvo: Efficient Long-sequence Large Language Model Training via Hybrid Parallelism and Redundant Sharding](https://arxiv.org/abs/2401.09149)
-
-**Qiaoling Chen**, Diandian Gu, Guoteng Wang, Xun Chen, YingTong Xiong, Ting Huang, Qinghao Hu, Xin Jin, Yonggang Wen, Tianwei Zhang, Peng Sun
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SPPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/SPPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SPPO: Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading](https://arxiv.org/abs/2503.10377)
@@ -52,12 +43,13 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/loongtrain.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Buff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism](https://arxiv.org/pdf/2406.18485)
+[InternEvo: Efficient Long-sequence Large Language Model Training via Hybrid Parallelism and Redundant Sharding](https://arxiv.org/abs/2401.09149)
 
-Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, **Qiaoling Chen**, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
+**Qiaoling Chen**, Diandian Gu, Guoteng Wang, Xun Chen, YingTong Xiong, Ting Huang, Qinghao Hu, Xin Jin, Yonggang Wen, Tianwei Zhang, Peng Sun
 
 </div>
 </div>
@@ -82,6 +74,17 @@ Qinghao Hu, Zhisheng Ye, Meng Zhang, **Qiaoling Chen**, Peng Sun, Yonggang Wen, 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/loongtrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism](https://arxiv.org/pdf/2406.18485)
+
+Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, **Qiaoling Chen**, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
+
+</div>
+</div>
+
 
 
 # 🎖 Professional Services
