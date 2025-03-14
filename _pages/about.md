@@ -42,10 +42,20 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SPPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism]([https://arxiv.org/abs/2401.09149](https://arxiv.org/pdf/2406.18485))
+[SPPO: Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading](https://arxiv.org/abs/2503.10377)
+
+**Qiaoling Chen**, Shenggui Li, Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/loongtrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism](https://arxiv.org/pdf/2406.18485)
 
 Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, **Qiaoling Chen**, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
 
