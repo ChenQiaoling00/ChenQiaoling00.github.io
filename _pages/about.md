@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. I was a research intern at Shanghai AI Lab, supervised by Dr. Peng Sun.
+Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. I was a research intern at Shanghai AI Lab and OneFlow. 
 
 
 # 📝 Publications 
@@ -28,6 +28,18 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 [AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training](https://arxiv.org/abs/2311.00257)
 
 **Qiaoling Chen**, Qinghao Hu, Guoteng Wang, Yingtong Xiong, Ting Huang, Xun Chen, Yang Gao, Hang Yan, Yonggang Wen, Tianwei Zhang, Peng Sun
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/ReSpec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems](https://arxiv.org/abs/2510.26475)
+
+**Qiaoling Chen**, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang
 
 </div>
 </div>
