@@ -70,7 +70,7 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='images/NSDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Characterization of Large Language Model Development in the Datacenter
+[NSDI 2024]Characterization of Large Language Model Development in the Datacenter
 
 Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, **Qiaoling Chen**, Peng Sun, Dahua Lin, Xiaolin Wang, Yingwei Luo, Yonggang Wen, Tianwei Zhang
 
@@ -80,7 +80,7 @@ Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, **Qiaoling Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OSDI 2023</div><img src='images/hydro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters](https://tonyhao.xyz/data/OSDI_23.pdf)
+[[OSDI 2023] Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters](https://tonyhao.xyz/data/OSDI_23.pdf)
 
 Qinghao Hu, Zhisheng Ye, Meng Zhang, **Qiaoling Chen**, Peng Sun, Yonggang Wen, Tianwei Zhang
 
