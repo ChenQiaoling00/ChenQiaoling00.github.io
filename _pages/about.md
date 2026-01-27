@@ -25,7 +25,7 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2024</div><img src='images/LinS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training](https://arxiv.org/abs/2311.00257)
+[[IWQoS 2024]AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training](https://arxiv.org/abs/2311.00257)
 
 **Qiaoling Chen**, Qinghao Hu, Guoteng Wang, Yingtong Xiong, Ting Huang, Xun Chen, Yang Gao, Hang Yan, Yonggang Wen, Tianwei Zhang, Peng Sun
 
@@ -37,7 +37,7 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/ReSpec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems](https://arxiv.org/abs/2510.26475)
+[[MLSYS 2026]ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems](https://arxiv.org/abs/2510.26475)
 
 **Qiaoling Chen**, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang
 
