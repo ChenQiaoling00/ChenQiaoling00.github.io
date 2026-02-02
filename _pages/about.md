@@ -44,6 +44,16 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PACE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[Preprint 2026] CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/pdf/2601.22705)
+
+**Qiaoling Chen**, Zhisheng Ye, Tian Tang, Peng Sun, Boyu Tian, Guoteng Wang, Shenggui Li, Yonggang Wen, Zhenhua Han, Tianwei Zhang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/SPPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
