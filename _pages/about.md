@@ -31,6 +31,15 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring 
 </colgroup>
 
 <tr>
+<td valign="top" style="border: none;"><strong>ICML 2026</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://arxiv.org/pdf/2601.22705">PACE: Proactive Agent-Level Admission Control for Efficient Agentic Batch Inference</a></strong><br>
+<strong>Qiaoling Chen</strong>, Zhisheng Ye, Tian Tang, Peng Sun, Boyu Tian, Guoteng Wang, Shenggui Li, Zhenhua Han, Yonggang Wen, Tianwei Zhang
+</td>
+</tr>
+
+
+<tr>
 <td valign="top" style="border: none;"><strong>MLSYS 2026</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/abs/2510.26475">ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems</a></strong><br>
@@ -99,16 +108,6 @@ Qinghao Hu, Zhisheng Ye, Meng Zhang, <strong>Qiaoling Chen</strong>, Peng Sun, Y
 <col span="1" style="width: 15%;">
 <col span="1" style="width: 85%;">
 </colgroup>
-
-<tr>
-<td valign="top" style="border: none;"><strong>2026</strong></td>
-<td valign="top" style="border: none;">
-<strong><a href="https://arxiv.org/pdf/2601.22705">CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control</a></strong><br>
-<strong>Qiaoling Chen</strong>, Zhisheng Ye, Tian Tang, Peng Sun, Boyu Tian, Guoteng Wang, Shenggui Li, Yonggang Wen, Zhenhua Han, Tianwei Zhang
-</td>
-</tr>
-
-
 
 <tr>
 <td valign="top" style="border: none;"><strong>2024</strong></td>
