@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Qiaoling Chen (陈 巧玲). I am a first-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. I was a research intern at Shanghai AI Lab and OneFlow. 
+Hi, this is Qiaoling Chen (陈 巧玲). I am a second-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. 
 
 
 # 📝 Publications
 
-## Published
+## Selected Paper
 
 <table width="100%" align="center" border="0" cellpadding="6" cellspacing="0" style="table-layout:fixed; border: none; border-collapse: collapse;">
 <colgroup>
