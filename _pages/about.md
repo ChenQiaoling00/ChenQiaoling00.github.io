@@ -17,12 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Qiaoling Chen (陈 巧玲). I am a second-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. 
+Hi, this is Qiaoling Chen (陈 巧玲). I am a third-year Ph.D student majoring in Computer Science at S-Lab Nanyang Technological University (NTU), supervised by Prof. Tianwei Zhang. My research interest focuses on Machine Learning (LLM) systems. Before that, I graduated from the National University of Singapore in 2023. 
 
+
+# 🚀 Projects
+
+<table width="100%" align="center" border="0" cellpadding="6" cellspacing="0" style="table-layout:fixed; border: none; border-collapse: collapse;">
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 85%;">
+</colgroup>
+
+<tr>
+<td valign="top" style="border: none;"><strong>2026</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://hy-nomas.hy.tencent.com/">Hy-Nomas: Towards Free-Form Interactive World Generation</a></strong><br>
+Tencent Hunyuan. <strong>Role: Core Contributor</strong><br>
+[<a href="https://hy-nomas.hy.tencent.com/">Project Page</a>] [<a href="https://github.com/Tencent-Hunyuan/Hy-Nomas">Code</a>] [<a href="https://github.com/Tencent-Hunyuan/Hy-Nomas/blob/main/Hy_Nomas_Tech_Report.pdf">Technical Report</a>] [<a href="https://huggingface.co/tencent/Hy-Nomas">Model</a>] [<a href="https://hy-nomas.hy.tencent.com/demo">Demo</a>]
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: none;"><strong>2025</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://huggingface.co/papers/2512.04987">Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction</a></strong><br>
+Nex-AGI Team. <strong>Role: Contributor</strong><br>
+[<a href="https://nex.sii.edu.cn">Project Page</a>] [<a href="https://github.com/nex-agi/Nex-N1">Code</a>] [<a href="https://huggingface.co/papers/2512.04987">Paper</a>] [<a href="https://huggingface.co/collections/nex-agi/nex-n1">Model</a>]
+</td>
+</tr>
+
+</table>
 
 # 📝 Publications
-
-## Selected Paper
 
 <table width="100%" align="center" border="0" cellpadding="6" cellspacing="0" style="table-layout:fixed; border: none; border-collapse: collapse;">
 <colgroup>
@@ -34,16 +60,15 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a second-year Ph.D student majoring
 <td valign="top" style="border: none;"><strong>ICML 2026</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/pdf/2601.22705">PACE: Proactive Agent-Level Admission Control for Efficient Agentic Batch Inference</a></strong><br>
-<strong>Qiaoling Chen</strong>, Zhisheng Ye, Tian Tang, Peng Sun, Boyu Tian, Guoteng Wang, Shenggui Li, Zhenhua Han, Yonggang Wen, Tianwei Zhang
+<strong><u>Qiaoling Chen</u></strong>, Zhisheng Ye, Tian Tang, Peng Sun, Boyu Tian, Guoteng Wang, Shenggui Li, Zhenhua Han, Yonggang Wen, Tianwei Zhang
 </td>
 </tr>
-
 
 <tr>
 <td valign="top" style="border: none;"><strong>MLSYS 2026</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/abs/2510.26475">ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems</a></strong><br>
-<strong>Qiaoling Chen</strong>, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang
+<strong><u>Qiaoling Chen</u></strong>, Zijun Liu, Peng Sun, Shenggui Li, Guoteng Wang, Ziming Liu, Yonggang Wen, Siyuan Feng, Tianwei Zhang
 </td>
 </tr>
 
@@ -51,7 +76,7 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a second-year Ph.D student majoring
 <td valign="top" style="border: none;"><strong>ICS 2026</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/abs/2503.10377">SPPO: Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading</a></strong><br>
-<strong>Qiaoling Chen</strong>, Shenggui Li, Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang
+<strong><u>Qiaoling Chen</u></strong>, Shenggui Li, Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang
 </td>
 </tr>
 
@@ -60,7 +85,7 @@ Hi, this is Qiaoling Chen (陈 巧玲). I am a second-year Ph.D student majoring
 <td valign="top" style="border: none;">
 <strong><a href="https://www.usenix.org/conference/nsdi26/presentation/li-shengwei">
 Di-PS: System-Algorithm Co-Design for Asynchronous and Heterogeneous Cross-Cluster LLM Training at Scale</a></strong><br>
-Shengwei Li*, <strong>Qiaoling Chen*</strong>, Zhiquan Lai, Penglong Jiao, Wenwen Qu, Kun Cai, Jiaxing Li, Peng Sun, Xingcheng Zhang, Xiaoge Deng, Kai Lu, and Dongsheng Li, Tianwei Zhang
+Shengwei Li*, <strong><u>Qiaoling Chen</u>*</strong>, Zhiquan Lai, Penglong Jiao, Wenwen Qu, Kun Cai, Jiaxing Li, Peng Sun, Xingcheng Zhang, Xiaoge Deng, Kai Lu, and Dongsheng Li, Tianwei Zhang
 </td>
 </tr>
 
@@ -69,7 +94,31 @@ Shengwei Li*, <strong>Qiaoling Chen*</strong>, Zhiquan Lai, Penglong Jiao, Wenwe
 <td valign="top" style="border: none;">
 <strong><a href="https://www.usenix.org/system/files/fast26_full_proceedings.pdf">
 AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization</a></strong><br>
-Weijie Liu, Shengwei Li, Zhiquan Lai, Keshi Ge, <strong>Qiaoling Chen</strong>, Peng Sun, Dongsheng Li, Kai Lu
+Weijie Liu, Shengwei Li, Zhiquan Lai, Keshi Ge, <strong><u>Qiaoling Chen</u></strong>, Peng Sun, Dongsheng Li, Kai Lu
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: none;"><strong>ICML 2026</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://arxiv.org/abs/2603.18567">SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding</a></strong><br>
+Shenggui Li, Chao Wang, Yikai Zhu, Yubo Wang, Fan Yin, Shuai Shi, Yefei Chen, Xiaomin Dong, <strong><u>Qiaoling Chen</u></strong>, Jin Pan, Ji Li, Laixin Xie, Yineng Zhang, Lei Yu, Yonggang Wen, Ivor Tsang, Tianwei Zhang
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: none;"><strong>ICLR 2026</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/c3728248f3c627d1f16ca5726cdf83f5-Abstract-Conference.html">DSA: Efficient Inference For Video Generation Models via Distributed Sparse Attention</a></strong><br>
+Shenggui Li, Runyu Lu, <strong><u>Qiaoling Chen</u></strong>, Haiyan Yin, Yueming Lyu, Yonggang Wen, Ivor Tsang, Tianwei Zhang
+</td>
+</tr>
+
+<tr>
+<td valign="top" style="border: none;"><strong>SC 2026</strong></td>
+<td valign="top" style="border: none;">
+<strong><a href="https://arxiv.org/abs/2509.17863">Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving</a></strong><br>
+Ziming Liu, Boyu Tian, Guoteng Wang, Zhen Jiang, Peng Sun, Zhenhua Han, Tian Tang, Xiaohe Hu, Yanmin Jia, Yan Zhang, He Liu, Mingjun Zhang, Yiqi Zhang, <strong><u>Qiaoling Chen</u></strong>, Shenggan Cheng, Mingyu Gao, Yang You, Siyuan Feng
 </td>
 </tr>
 
@@ -78,7 +127,7 @@ Weijie Liu, Shengwei Li, Zhiquan Lai, Keshi Ge, <strong>Qiaoling Chen</strong>, 
 <td valign="top" style="border: none;"><strong>IWQoS 2024</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/abs/2311.00257">AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training</a></strong><br>
-<strong>Qiaoling Chen</strong>, Qinghao Hu, Guoteng Wang, Yingtong Xiong, Ting Huang, Xun Chen, Yang Gao, Hang Yan, Yonggang Wen, Tianwei Zhang, Peng Sun
+<strong><u>Qiaoling Chen</u></strong>, Qinghao Hu, Guoteng Wang, Yingtong Xiong, Ting Huang, Xun Chen, Yang Gao, Hang Yan, Yonggang Wen, Tianwei Zhang, Peng Sun
 </td>
 </tr>
 
@@ -87,7 +136,7 @@ Weijie Liu, Shengwei Li, Zhiquan Lai, Keshi Ge, <strong>Qiaoling Chen</strong>, 
 <td valign="top" style="border: none;">
 
 <strong><a href="https://www.usenix.org/system/files/nsdi24-hu.pdf">Characterization of Large Language Model Development in the Datacenter</a></strong><br>
-Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, <strong>Qiaoling Chen</strong>, Peng Sun, Dahua Lin, Xiaolin Wang, Yingwei Luo, Yonggang Wen, Tianwei Zhang
+Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, <strong><u>Qiaoling Chen</u></strong>, Peng Sun, Dahua Lin, Xiaolin Wang, Yingwei Luo, Yonggang Wen, Tianwei Zhang
 </td>
 </tr>
 
@@ -95,7 +144,7 @@ Qinghao Hu*, Zhisheng Ye*, Zerui Wang*, Guoteng Wang, Meng Zhang, <strong>Qiaoli
 <td valign="top" style="border: none;"><strong>OSDI 2023</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://tonyhao.xyz/data/OSDI_23.pdf">Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters</a></strong><br>
-Qinghao Hu, Zhisheng Ye, Meng Zhang, <strong>Qiaoling Chen</strong>, Peng Sun, Yonggang Wen, Tianwei Zhang
+Qinghao Hu, Zhisheng Ye, Meng Zhang, <strong><u>Qiaoling Chen</u></strong>, Peng Sun, Yonggang Wen, Tianwei Zhang
 </td>
 </tr>
 
@@ -113,7 +162,7 @@ Qinghao Hu, Zhisheng Ye, Meng Zhang, <strong>Qiaoling Chen</strong>, Peng Sun, Y
 <td valign="top" style="border: none;"><strong>2024</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/abs/2401.09149">InternEvo: Efficient Long-sequence Large Language Model Training via Hybrid Parallelism and Redundant Sharding</a></strong><br>
-<strong>Qiaoling Chen</strong>, Diandian Gu, Guoteng Wang, Xun Chen, YingTong Xiong, Ting Huang, Qinghao Hu, Xin Jin, Yonggang Wen, Tianwei Zhang, Peng Sun
+<strong><u>Qiaoling Chen</u></strong>, Diandian Gu, Guoteng Wang, Xun Chen, YingTong Xiong, Ting Huang, Qinghao Hu, Xin Jin, Yonggang Wen, Tianwei Zhang, Peng Sun
 </td>
 </tr>
 
@@ -121,7 +170,7 @@ Qinghao Hu, Zhisheng Ye, Meng Zhang, <strong>Qiaoling Chen</strong>, Peng Sun, Y
 <td valign="top" style="border: none;"><strong>2024</strong></td>
 <td valign="top" style="border: none;">
 <strong><a href="https://arxiv.org/pdf/2406.18485">LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism</a></strong><br>
-Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, <strong>Qiaoling Chen</strong>, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
+Diandian Gu, Peng Sun, Qinghao Hu, Ting Huang, Xun Chen, Yingtong Xiong, Guoteng Wang, <strong><u>Qiaoling Chen</u></strong>, Shangchun Zhao, Jiarui Fang, Yonggang Wen, Tianwei Zhang, Xin Jin, Xuanzhe Liu
 </td>
 </tr>
 
